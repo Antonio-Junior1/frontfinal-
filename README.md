@@ -1,6 +1,17 @@
 # ThermoGuard Mobile App
 
 
+# Desenvolvedores
+
+
+Antônio Lino da Silva Júnior RM 554518 - 2TDSPJ
+Caio Henrique Teixeira Silva Carnetti RM 554600 - 2TDSPJ
+Lucas Abud Berbel RM 557957 - 2TDSPH
+
+
+# Video de apresentacao das funcionalidades 
+
+https://www.youtube.com/watch?v=_kHyvGjHJPs
 
 
 📋 VISÃO GERAL DA SOLUÇÃO
