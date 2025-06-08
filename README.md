@@ -170,16 +170,8 @@ O aplicativo mapeia automaticamente os dados entre o formato JavaScript e os DTO
 - **Expo SDK** 53+
 - **React Native** 0.79+
 
-## 🚀 Deploy e Distribuição
 
-O aplicativo pode ser distribuído através de:
-- **Expo Go** (desenvolvimento)
-- **EAS Build** (produção)
-- **APK/IPA** standalone
 
-## 📄 Licença
-
-Este projeto foi desenvolvido como parte de um trabalho acadêmico para a disciplina de Mobile Application Development.
 
 ---
 
