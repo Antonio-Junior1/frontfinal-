@@ -1,34 +1,5 @@
 # ThermoGuard Mobile App
 
-Sistema de monitoramento de temperaturas desenvolvido em React Native, integrado com backend .NET para operações CRUD completas.
-
-## 🚀 Características Principais
-
-### ✅ Navegação e Telas (10 pontos)
-- **5 telas distintas** com navegação fluida usando React Navigation
-- **Tab Navigation** com Stack Navigation aninhado
-- **Experiência consistente** em todas as telas
-- **Navegação intuitiva** seguindo guidelines mobile
-
-### ✅ CRUD com API .NET (40 pontos)
-- **Integração completa** com backend .NET na porta 5285
-- **Operações CRUD** para Sensores e Leituras
-- **Tratamento robusto de erros** com feedback visual
-- **Validação de dados** sincronizada entre frontend e backend
-- **Mapeamento correto** de DTOs e conversão automática de datas
-
-### ✅ Estilização Personalizada (10 pontos)
-- **Identidade visual ThermoGuard** com paleta de cores baseada em temperatura
-- **Design responsivo** seguindo guidelines Apple/Google
-- **Componentes consistentes** em todo o aplicativo
-- **Cores dinâmicas** baseadas nos valores de temperatura
-
-### ✅ Arquitetura do Código (20 pontos)
-- **Organização profissional** de arquivos e pastas
-- **Separação de responsabilidades** (services, screens, navigation, config)
-- **Código limpo** com nomenclatura clara e padronizada
-- **Componentes reutilizáveis** e bem estruturados
-- **Configuração centralizada** com validações
 
 ## 📱 Telas do Aplicativo
 
@@ -104,6 +75,10 @@ thermoguard-new/
 - Expo CLI
 - Backend .NET rodando na porta 5285
 
+
+link do repositorio do backend  https://github.com/luketa02496/gs.net.git
+
+
 ### Instalação
 ```bash
 # Instalar dependências
@@ -122,7 +97,7 @@ npm run ios
 ### Configuração da API
 O aplicativo está configurado para se conectar ao backend .NET em:
 ```
-http://localhost:5285/api/
+http://10.0.2.2:5285/api/
 ```
 
 Para alterar a URL da API, edite o arquivo `config/index.js`:
